@@ -14,12 +14,12 @@
 ---
 
 ### :woman_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aspiring Python Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with node.js and python frameworks like Django. Eager to join a team where I can learn, contribute, and grow as a backend developer.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aspiring Python Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with python frameworks like Flask. Eager to join a team where I can learn, contribute, and grow as a backend developer.
 
 ## 🔧 Skills & Tools:  
 - Python: Basics of object-oriented programming and scripting  
-- Exploring the world of **Node.js** for backend development  
-- Beginner in **Django** and **Flask**
+- Exploring the world of backend development  
+- Beginner in **Flask**
 
 ## 📚 Current Goals:  
 - Build a solid foundation in backend technologies  
@@ -36,7 +36,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js" alt="node.js" width="50" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40">
