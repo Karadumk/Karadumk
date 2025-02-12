@@ -46,8 +46,8 @@
 ---
 
 ### :fire: My Stats :
+![Karadumk's Stats](https://github-readme-stats.vercel.app/api?username=Karadumk&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
+![Karadumk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karadumk&theme=dark&hide_border=false)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karadumk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Karadumk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karadumk&theme=dark&show_icons=true&hide_border=false&layout=compact)
