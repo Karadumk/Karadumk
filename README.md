@@ -19,12 +19,12 @@
 ## 🔧 Skills & Tools:  
 - Python: Basics of object-oriented programming and scripting  
 - Exploring the world of backend development  
-- Beginner in **Flask**
+- Beginner in **Flask** and **FastAPI**
 
 ## 📚 Current Goals:  
 - Build a solid foundation in backend technologies  
 - Work on real-world projects to sharpen my skills  
-- Prepare for entry-level Python development roles by June  
+- Prepare for entry-level Backend development roles by June  
 
 ## 🛠️ Projects:  
 - A fun "Tinder for finding the right roommate" app in progress!  
