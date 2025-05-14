@@ -14,7 +14,7 @@
 ---
 
 ### :woman_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Aspiring Python Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with python frameworks like Flask. Eager to join a team where I can learn, contribute, and grow as a backend developer.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with python frameworks like Flask. Eager to join a team where I can learn, contribute, and grow as a backend developer.
 
 ## 🔧 Skills & Tools:  
 - Python: Basics of object-oriented programming and scripting  
