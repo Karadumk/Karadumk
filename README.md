@@ -19,7 +19,7 @@
 ## 🔧 Skills & Tools:  
 - Python: Basics of object-oriented programming and scripting  
 - Exploring the world of backend development  
-- Beginner in **Flask** and **FastAPI**
+- Intermediate in **Flask** and **FastAPI**
 
 ## 📚 Current Goals:  
 - Build a solid foundation in backend technologies  
@@ -28,7 +28,7 @@
 
 ## 🛠️ Projects:  
 - A fun "Tinder for finding the right roommate" app in progress!  
-- Adding a **Node.js** project to my portfolio
+- Adding an **AI** project to my portfolio
 - Dinosaur themed platformer game with pygame in the works
 
 ---
@@ -37,7 +37,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js" alt="node.js" width="50" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="sql" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg#L1" title="html" alt="html" width="40" height="40">
