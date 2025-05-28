@@ -13,7 +13,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with python frameworks like Flask. Eager to join a team where I can learn, contribute, and grow as a backend developer.
 
 ## 🔧 Skills & Tools:  
@@ -41,6 +41,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="sql" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg#L1" title="html" alt="html" width="40" height="40">
 </div>
+
+---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karadumk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karadumk223@gmail.com) 
 
 ---
 
