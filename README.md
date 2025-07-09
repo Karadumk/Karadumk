@@ -11,7 +11,11 @@
 </h1>  
 </div>
 
----
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karadumk&label=Profile%20views&color=0e75b6&style=flat" alt="karadumk" /> </p>
+
+
 
 ## :woman_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Backend Developer with a solid understanding of Python fundamentals and object-oriented programming. Skilled in FLask and FastAPI for building web applications and APIs. Learning to work with relational databases . Currently developing projects in backend development with python frameworks like Flask. Eager to join a team where I can learn, contribute, and grow as a backend developer.
@@ -33,13 +37,14 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="fastapi" alt="fastapi" width="60" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="sql" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg#L1" title="html" alt="html" width="40" height="40">
+ <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </div>
 
 ---
